@@ -1,0 +1,46 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "level": "Enter level",
+      "title": "Associate software engineer",
+      "description": "Software Engineer and maintains computer software at a company. They use their creativity and technical skills and apply the principles of software engineering to help solve new and ongoing problems for an organization",
+      "deadline": "2022-10-16"
+    },
+    {
+      "id": 2,
+      "level": "Enter level",
+      "title": "Associate software engineer",
+      "description": "Soand maintains computer software at a company. They use their creativity and technical skills and apply the principles of software engineering to help solve new and ongoing problems for an organization",
+      "deadline": "2022-10-16"
+    },
+    {
+      "id": 3,
+      "level": "Enter level",
+      "title": "Associate software engineer",
+      "description": "Software and maintains computer software at a company. They use their creativity and technical skills and apply the principles of software engineering to help solve new and ongoing problems for an organization",
+      "dedline": "2022-10-16"
+    },
+    {
+      "level": "intern",
+      "title": "data analyst",
+      "description": "analize the incomming data",
+      "deadline": "2022-10-16",
+      "id": 4
+    },
+    {
+      "level": "intern",
+      "title": "data scientist",
+      "description": "analize the incomming data, streaming through data etc, ectc",
+      "deadline": "2022-10-30",
+      "id": 5
+    },
+    {
+      "level": "senior",
+      "title": "software engineer",
+      "description": "asfadsdgsfgsdg",
+      "deadline": "2022-10-15",
+      "id": 6
+    }
+  ]
+}
